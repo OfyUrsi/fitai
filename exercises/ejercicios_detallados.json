@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Press de banca",
+    "muscleGroup": "Pecho",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "media",
+    "description": "Ejercicio para pecho usando barra.",
+    "variations": []
+  },
+  {
+    "name": "Press inclinado con mancuernas",
+    "muscleGroup": "Pecho",
+    "equipment": "Mancuernas",
+    "type": "Compuesto",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para pecho usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Aperturas con poleas",
+    "muscleGroup": "Pecho",
+    "equipment": "Poleas",
+    "type": "Aislado",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para pecho usando poleas.",
+    "variations": []
+  },
+  {
+    "name": "Press declinado",
+    "muscleGroup": "Pecho",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "avanzada",
+    "description": "Ejercicio para pecho usando barra.",
+    "variations": []
+  },
+  {
+    "name": "Press en máquina",
+    "muscleGroup": "Pecho",
+    "equipment": "Máquina",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "fácil",
+    "description": "Ejercicio para pecho usando máquina.",
+    "variations": []
+  },
+  {
+    "name": "Press con agarre cerrado",
+    "muscleGroup": "Pecho",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "grip": "supino",
+    "difficulty": "avanzada",
+    "description": "Ejercicio para pecho usando barra.",
+    "variations": []
+  },
+  {
+    "name": "Push-ups",
+    "muscleGroup": "Pecho",
+    "equipment": "Peso corporal",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "fácil",
+    "description": "Ejercicio para pecho usando peso corporal.",
+    "variations": []
+  },
+  {
+    "name": "Dominadas pronas",
+    "muscleGroup": "Espalda",
+    "equipment": "Peso corporal",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "avanzada",
+    "description": "Ejercicio para espalda usando peso corporal.",
+    "variations": []
+  },
+  {
+    "name": "Remo con mancuerna",
+    "muscleGroup": "Espalda",
+    "equipment": "Mancuernas",
+    "type": "Compuesto",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para espalda usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Jalón al pecho",
+    "muscleGroup": "Espalda",
+    "equipment": "Máquina",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "media",
+    "description": "Ejercicio para espalda usando máquina.",
+    "variations": []
+  },
+  {
+    "name": "Remo en polea baja",
+    "muscleGroup": "Espalda",
+    "equipment": "Poleas",
+    "type": "Compuesto",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para espalda usando poleas.",
+    "variations": []
+  },
+  {
+    "name": "Pull-over en máquina",
+    "muscleGroup": "Espalda",
+    "equipment": "Máquina",
+    "type": "Aislado",
+    "grip": "prono",
+    "difficulty": "fácil",
+    "description": "Ejercicio para espalda usando máquina.",
+    "variations": []
+  },
+  {
+    "name": "Remo invertido",
+    "muscleGroup": "Espalda",
+    "equipment": "Peso corporal",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "fácil",
+    "description": "Ejercicio para espalda usando peso corporal.",
+    "variations": []
+  },
+  {
+    "name": "Sentadilla libre",
+    "muscleGroup": "Piernas",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "media",
+    "description": "Ejercicio para piernas usando barra.",
+    "variations": []
+  },
+  {
+    "name": "Prensa de piernas",
+    "muscleGroup": "Piernas",
+    "equipment": "Máquina",
+    "type": "Compuesto",
+    "grip": "no aplica",
+    "difficulty": "fácil",
+    "description": "Ejercicio para piernas usando máquina.",
+    "variations": []
+  },
+  {
+    "name": "Zancadas caminando",
+    "muscleGroup": "Piernas",
+    "equipment": "Mancuernas",
+    "type": "Compuesto",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para piernas usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Curl femoral tumbado",
+    "muscleGroup": "Piernas",
+    "equipment": "Máquina",
+    "type": "Aislado",
+    "grip": "no aplica",
+    "difficulty": "fácil",
+    "description": "Ejercicio para piernas usando máquina.",
+    "variations": []
+  },
+  {
+    "name": "Extensión de piernas",
+    "muscleGroup": "Piernas",
+    "equipment": "Máquina",
+    "type": "Aislado",
+    "grip": "no aplica",
+    "difficulty": "fácil",
+    "description": "Ejercicio para piernas usando máquina.",
+    "variations": []
+  },
+  {
+    "name": "Peso muerto rumano",
+    "muscleGroup": "Piernas",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "avanzada",
+    "description": "Ejercicio para piernas usando barra.",
+    "variations": []
+  },
+  {
+    "name": "Sentadilla búlgara",
+    "muscleGroup": "Piernas",
+    "equipment": "Mancuernas",
+    "type": "Compuesto",
+    "grip": "neutro",
+    "difficulty": "avanzada",
+    "description": "Ejercicio para piernas usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Press militar",
+    "muscleGroup": "Hombros",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "media",
+    "description": "Ejercicio para hombros usando barra.",
+    "variations": []
+  },
+  {
+    "name": "Elevaciones frontales",
+    "muscleGroup": "Hombros",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para hombros usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Elevaciones laterales",
+    "muscleGroup": "Hombros",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para hombros usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Pájaros",
+    "muscleGroup": "Hombros",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para hombros usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Press Arnold",
+    "muscleGroup": "Hombros",
+    "equipment": "Mancuernas",
+    "type": "Compuesto",
+    "grip": "supino",
+    "difficulty": "avanzada",
+    "description": "Ejercicio para hombros usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Curl con barra",
+    "muscleGroup": "Bíceps",
+    "equipment": "Barra",
+    "type": "Aislado",
+    "grip": "supino",
+    "difficulty": "media",
+    "description": "Ejercicio para bíceps usando barra.",
+    "variations": []
+  },
+  {
+    "name": "Curl martillo",
+    "muscleGroup": "Bíceps",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para bíceps usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Curl inclinado",
+    "muscleGroup": "Bíceps",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "grip": "supino",
+    "difficulty": "avanzada",
+    "description": "Ejercicio para bíceps usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Curl concentrado",
+    "muscleGroup": "Bíceps",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "grip": "supino",
+    "difficulty": "media",
+    "description": "Ejercicio para bíceps usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Curl en polea baja",
+    "muscleGroup": "Bíceps",
+    "equipment": "Poleas",
+    "type": "Aislado",
+    "grip": "supino",
+    "difficulty": "media",
+    "description": "Ejercicio para bíceps usando poleas.",
+    "variations": []
+  },
+  {
+    "name": "Extensiones en polea",
+    "muscleGroup": "Tríceps",
+    "equipment": "Poleas",
+    "type": "Aislado",
+    "grip": "prono",
+    "difficulty": "media",
+    "description": "Ejercicio para tríceps usando poleas.",
+    "variations": []
+  },
+  {
+    "name": "Press francés",
+    "muscleGroup": "Tríceps",
+    "equipment": "Barra",
+    "type": "Aislado",
+    "grip": "supino",
+    "difficulty": "avanzada",
+    "description": "Ejercicio para tríceps usando barra.",
+    "variations": []
+  },
+  {
+    "name": "Fondos asistidos",
+    "muscleGroup": "Tríceps",
+    "equipment": "Máquina",
+    "type": "Compuesto",
+    "grip": "prono",
+    "difficulty": "fácil",
+    "description": "Ejercicio para tríceps usando máquina.",
+    "variations": []
+  },
+  {
+    "name": "Patada de tríceps",
+    "muscleGroup": "Tríceps",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "grip": "neutro",
+    "difficulty": "media",
+    "description": "Ejercicio para tríceps usando mancuernas.",
+    "variations": []
+  },
+  {
+    "name": "Crunch abdominal",
+    "muscleGroup": "Core",
+    "equipment": "Peso corporal",
+    "type": "Aislado",
+    "grip": "no aplica",
+    "difficulty": "fácil",
+    "description": "Ejercicio para core usando peso corporal.",
+    "variations": []
+  },
+  {
+    "name": "Plancha",
+    "muscleGroup": "Core",
+    "equipment": "Peso corporal",
+    "type": "Isométrico",
+    "grip": "no aplica",
+    "difficulty": "fácil",
+    "description": "Ejercicio para core usando peso corporal.",
+    "variations": []
+  },
+  {
+    "name": "Elevaciones de piernas colgado",
+    "muscleGroup": "Core",
+    "equipment": "Peso corporal",
+    "type": "Aislado",
+    "grip": "prono",
+    "difficulty": "avanzada",
+    "description": "Ejercicio para core usando peso corporal.",
+    "variations": []
+  },
+  {
+    "name": "Russian twist",
+    "muscleGroup": "Core",
+    "equipment": "Peso corporal",
+    "type": "Aislado",
+    "grip": "no aplica",
+    "difficulty": "media",
+    "description": "Ejercicio para core usando peso corporal.",
+    "variations": []
+  },
+  {
+    "name": "Mountain climbers",
+    "muscleGroup": "Core",
+    "equipment": "Peso corporal",
+    "type": "Compuesto",
+    "grip": "no aplica",
+    "difficulty": "media",
+    "description": "Ejercicio para core usando peso corporal.",
+    "variations": []
+  }
+]

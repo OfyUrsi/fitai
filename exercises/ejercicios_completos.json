@@ -1,0 +1,256 @@
+[
+  {
+    "name": "Press de banca",
+    "muscleGroup": "Pecho",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "description": "Ejercicio principal para desarrollar el pectoral mayor.",
+    "variations": [
+      "Press con mancuernas",
+      "Press inclinado con barra"
+    ]
+  },
+  {
+    "name": "Press inclinado con mancuernas",
+    "muscleGroup": "Pecho",
+    "equipment": "Mancuernas",
+    "type": "Compuesto",
+    "description": "Trabaja la parte superior del pecho.",
+    "variations": [
+      "Press inclinado en máquina"
+    ]
+  },
+  {
+    "name": "Aperturas con mancuernas",
+    "muscleGroup": "Pecho",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "description": "Aísla el pectoral mayor con énfasis en el estiramiento.",
+    "variations": [
+      "Aperturas en máquina",
+      "Aperturas con poleas"
+    ]
+  },
+  {
+    "name": "Fondos para pecho",
+    "muscleGroup": "Pecho",
+    "equipment": "Peso corporal",
+    "type": "Compuesto",
+    "description": "Ejercicio compuesto enfocado en el pecho inferior.",
+    "variations": [
+      "Fondos asistidos",
+      "Fondos con lastre"
+    ]
+  },
+  {
+    "name": "Dominadas",
+    "muscleGroup": "Espalda",
+    "equipment": "Peso corporal",
+    "type": "Compuesto",
+    "description": "Ejercicio base para dorsales, romboides y bíceps.",
+    "variations": [
+      "Dominadas asistidas"
+    ]
+  },
+  {
+    "name": "Remo con barra",
+    "muscleGroup": "Espalda",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "description": "Trabaja dorsales, romboides y trapecios.",
+    "variations": [
+      "Remo con mancuerna"
+    ]
+  },
+  {
+    "name": "Jalón al pecho",
+    "muscleGroup": "Espalda",
+    "equipment": "Máquina",
+    "type": "Compuesto",
+    "description": "Alternativa a dominadas para dorsales.",
+    "variations": [
+      "Jalón tras nuca",
+      "Jalón con agarre estrecho"
+    ]
+  },
+  {
+    "name": "Sentadilla libre",
+    "muscleGroup": "Piernas",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "description": "Ejercicio base para cuádriceps, glúteos e isquios.",
+    "variations": [
+      "Sentadilla frontal"
+    ]
+  },
+  {
+    "name": "Prensa de piernas",
+    "muscleGroup": "Piernas",
+    "equipment": "Máquina",
+    "type": "Compuesto",
+    "description": "Trabaja principalmente cuádriceps y glúteos.",
+    "variations": [
+      "Prensa inclinada"
+    ]
+  },
+  {
+    "name": "Zancadas con mancuernas",
+    "muscleGroup": "Piernas",
+    "equipment": "Mancuernas",
+    "type": "Compuesto",
+    "description": "Trabaja piernas de forma unilateral y mejora el equilibrio.",
+    "variations": [
+      "Zancadas estáticas",
+      "Zancadas caminando"
+    ]
+  },
+  {
+    "name": "Curl femoral",
+    "muscleGroup": "Piernas",
+    "equipment": "Máquina",
+    "type": "Aislado",
+    "description": "Aísla los isquiotibiales.",
+    "variations": [
+      "Curl sentado",
+      "Curl de pie"
+    ]
+  },
+  {
+    "name": "Elevación de talones",
+    "muscleGroup": "Piernas",
+    "equipment": "Máquina",
+    "type": "Aislado",
+    "description": "Fortalece los gemelos.",
+    "variations": [
+      "Con barra",
+      "Con mancuerna"
+    ]
+  },
+  {
+    "name": "Press militar",
+    "muscleGroup": "Hombros",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "description": "Ejercicio base para deltoides anteriores y superiores.",
+    "variations": [
+      "Con mancuernas"
+    ]
+  },
+  {
+    "name": "Elevaciones laterales",
+    "muscleGroup": "Hombros",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "description": "Aísla el deltoide lateral.",
+    "variations": [
+      "Con poleas",
+      "En máquina"
+    ]
+  },
+  {
+    "name": "Pájaros",
+    "muscleGroup": "Hombros",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "description": "Aísla el deltoide posterior.",
+    "variations": [
+      "Con polea",
+      "En banco inclinado"
+    ]
+  },
+  {
+    "name": "Curl con barra",
+    "muscleGroup": "Bíceps",
+    "equipment": "Barra",
+    "type": "Aislado",
+    "description": "Fortalece el bíceps braquial.",
+    "variations": [
+      "Curl Z",
+      "Curl con mancuernas"
+    ]
+  },
+  {
+    "name": "Curl martillo",
+    "muscleGroup": "Bíceps",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "description": "Enfocado en el braquiorradial y bíceps.",
+    "variations": [
+      "Curl cruzado"
+    ]
+  },
+  {
+    "name": "Curl en banco inclinado",
+    "muscleGroup": "Bíceps",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "description": "Mayor estiramiento del bíceps en el inicio.",
+    "variations": [
+      "Curl alterno"
+    ]
+  },
+  {
+    "name": "Extensiones en polea",
+    "muscleGroup": "Tríceps",
+    "equipment": "Polea",
+    "type": "Aislado",
+    "description": "Ejercicio para los tres haces del tríceps.",
+    "variations": [
+      "Con cuerda",
+      "Con barra"
+    ]
+  },
+  {
+    "name": "Fondos en paralelas",
+    "muscleGroup": "Tríceps",
+    "equipment": "Peso corporal",
+    "type": "Compuesto",
+    "description": "Tríceps, pectoral inferior y deltoides.",
+    "variations": [
+      "Fondos asistidos"
+    ]
+  },
+  {
+    "name": "Press francés",
+    "muscleGroup": "Tríceps",
+    "equipment": "Barra",
+    "type": "Aislado",
+    "description": "Movimientos de extensión del codo para el tríceps.",
+    "variations": [
+      "Con mancuernas",
+      "En polea"
+    ]
+  },
+  {
+    "name": "Crunch abdominal",
+    "muscleGroup": "Core",
+    "equipment": "Peso corporal",
+    "type": "Aislado",
+    "description": "Aísla la parte superior del abdomen.",
+    "variations": [
+      "En máquina"
+    ]
+  },
+  {
+    "name": "Plancha",
+    "muscleGroup": "Core",
+    "equipment": "Peso corporal",
+    "type": "Isométrico",
+    "description": "Ejercicio estático para core.",
+    "variations": [
+      "Plancha lateral",
+      "Plancha con apoyo de antebrazos"
+    ]
+  },
+  {
+    "name": "Elevaciones de piernas",
+    "muscleGroup": "Core",
+    "equipment": "Peso corporal",
+    "type": "Aislado",
+    "description": "Trabaja el abdomen inferior.",
+    "variations": [
+      "En banco",
+      "En barra"
+    ]
+  }
+]

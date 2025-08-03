@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Press de banca",
+    "muscleGroup": "Pecho",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "description": "Ejercicio principal para desarrollar el pectoral mayor.",
+    "variations": [
+      "Press con mancuernas",
+      "Press inclinado con barra"
+    ]
+  },
+  {
+    "name": "Aperturas con mancuernas",
+    "muscleGroup": "Pecho",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "description": "Ejercicio para aislar el pectoral en la fase de estiramiento.",
+    "variations": [
+      "Aperturas en máquina",
+      "Aperturas con poleas"
+    ]
+  },
+  {
+    "name": "Sentadilla libre",
+    "muscleGroup": "Piernas",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "description": "Ejercicio base para cuádriceps, glúteos e isquios.",
+    "variations": [
+      "Sentadilla frontal",
+      "Sentadilla goblet"
+    ]
+  },
+  {
+    "name": "Curl de bíceps con mancuernas",
+    "muscleGroup": "Bíceps",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "description": "Ejercicio clásico para trabajar el bíceps braquial.",
+    "variations": [
+      "Curl con barra",
+      "Curl concentrado"
+    ]
+  },
+  {
+    "name": "Remo con barra",
+    "muscleGroup": "Espalda",
+    "equipment": "Barra",
+    "type": "Compuesto",
+    "description": "Remo horizontal para trabajar dorsales, trapecios y romboides.",
+    "variations": [
+      "Remo con mancuerna",
+      "Remo en máquina"
+    ]
+  },
+  {
+    "name": "Elevaciones laterales",
+    "muscleGroup": "Hombros",
+    "equipment": "Mancuernas",
+    "type": "Aislado",
+    "description": "Ejercicio para deltoides laterales.",
+    "variations": [
+      "Elevaciones con polea",
+      "Elevaciones en máquina"
+    ]
+  },
+  {
+    "name": "Fondos en paralelas",
+    "muscleGroup": "Tríceps",
+    "equipment": "Peso corporal",
+    "type": "Compuesto",
+    "description": "Ejercicio para trabajar tríceps, pectoral inferior y deltoides frontales.",
+    "variations": [
+      "Fondos asistidos",
+      "Fondos en máquina"
+    ]
+  },
+  {
+    "name": "Plancha abdominal",
+    "muscleGroup": "Core",
+    "equipment": "Peso corporal",
+    "type": "Aislado",
+    "description": "Ejercicio isométrico para fortalecer el core.",
+    "variations": [
+      "Plancha lateral",
+      "Plancha con elevación de piernas"
+    ]
+  }
+]
