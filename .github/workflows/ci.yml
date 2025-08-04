@@ -1,0 +1,92 @@
+name: Full CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  lint:
+    name: ESLint + Prettier
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          cd frontend
+          npm ci
+
+      - name: Run ESLint
+        run: |
+          cd frontend
+          npm run lint
+
+      - name: Check Prettier formatting
+        run: |
+          cd frontend
+          npx prettier . --check
+
+  test:
+    name: Run frontend tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          cd frontend
+          npm ci
+
+      - name: Run tests
+        run: |
+          cd frontend
+          npm test -- --watchAll=false
+
+  build-frontend:
+    name: Build frontend
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          cd frontend
+          npm ci
+
+      - name: Build React app
+        run: |
+          cd frontend
+          npm run build
+
+  build-backend:
+    name: Start backend server
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          cd backend
+          npm ci
+
+      - name: Run backend
+        run: |
+          cd backend
+          node index.js &
+          sleep 5
