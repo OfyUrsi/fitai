@@ -50,7 +50,7 @@ jobs:
       - name: Run tests
         run: |
           cd frontend
-          npm test -- --watchAll=false
+          npx vitest run
 
   build-frontend:
     name: Build frontend
